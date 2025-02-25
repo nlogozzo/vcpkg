@@ -386,6 +386,8 @@ gamenetworkingsockets:x64-android=fail
 gdk-pixbuf:arm-neon-android=fail
 gdk-pixbuf:arm64-android=fail
 gdk-pixbuf:x64-android=fail
+gegl:x64-osx=fail
+gegl:arm64-osx=fail
 gemmlowp:arm-neon-android=fail
 gemmlowp:arm64-android=fail
 gemmlowp:x64-android=fail
@@ -428,8 +430,8 @@ gstreamer:arm-neon-android=fail
 gstreamer:arm64-android=fail
 gstreamer:x64-android=fail
 # upstream issue https://gitlab.freedesktop.org/gstreamer/gstreamer/-/issues/1629.
-gstreamer:x64-windows-static = skip
-gstreamer:x64-windows-static-md = skip
+gstreamer:x64-windows-static=skip
+gstreamer:x64-windows-static-md=skip
 gul14:arm-neon-android=fail
 gul14:arm64-android=fail
 gul14:x64-android=fail
@@ -452,12 +454,12 @@ iceoryx:arm64-android=fail
 iceoryx:arm-neon-android=fail
 ijg-libjpeg:arm-neon-android=skip
 ijg-libjpeg:arm64-android=skip
-ijg-libjpeg:arm64-osx= skip
+ijg-libjpeg:arm64-osx=skip
 ijg-libjpeg:arm64-uwp=skip
 ijg-libjpeg:arm64-windows-static-md=skip
 ijg-libjpeg:arm64-windows=skip
 ijg-libjpeg:x64-android=skip
-ijg-libjpeg:x64-linux= skip
+ijg-libjpeg:x64-linux=skip
 ijg-libjpeg:x64-osx=skip
 ijg-libjpeg:x64-uwp=skip
 ijg-libjpeg:x64-windows-release=skip
@@ -785,28 +787,10 @@ nrf-ble-driver:arm64-android=fail
 nrf-ble-driver:x64-android=fail
 nvtt:x64-android=fail
 oatpp-libressl:x64-android=fail
-ode:arm64-windows=fail
-ode:arm64-windows-static-md=fail
 offscale-libetcd-cpp:arm64-uwp=fail
 offscale-libetcd-cpp:x64-uwp=fail
 ogdf:arm64-android=fail
 ois:x64-android=fail
-# ompl is vulnerable to some form of race in its dependent ports, and adding 'ode' as a dependency
-# does not resolve the issue
-# src/ompl/CMakeFiles/ompl.dir/extensions/ode/src/OpenDEStateValidityChecker.cpp.o
-# -L/mnt/vcpkg-ci/packages/flann_x64-linux/debug/lib   -L/mnt/vcpkg-ci/packages/ode_x64-linux/debug/lib
-# -Wl,-rpath,/mnt/vcpkg-ci/packages/flann_x64-linux/debug/lib:/mnt/vcpkg-ci/packages/ode_x64-linux/debug/lib::::::::::::::::::::::::::::::::::::::::::::::::
-# -lode  /mnt/vcpkg-ci/installed/x64-linux/debug/lib/libboost_serialization.a
-# /mnt/vcpkg-ci/installed/x64-linux/debug/lib/libboost_filesystem.a
-# /mnt/vcpkg-ci/installed/x64-linux/debug/lib/libboost_system.a  -lpthread && :
-# /usr/bin/ld: cannot find -lode
-ompl:arm-neon-android=fail
-ompl:arm64-android=fail
-ompl:x64-android=fail
-# failed with FILE_CONFLICTS https://github.com/microsoft/vcpkg/pull/40151
-omplapp:arm64-osx=skip
-omplapp:x64-osx=skip
-omplapp:x64-linux=skip
 # opencc/deps/rapidjson-1.1.0/rapidjson.h: Unknown machine endianess detected
 # opencc/deps/marisa-0.2.5/lib/marisa/grimoire/io/mapper.cc currently doesn't support UWP.
 opencc:x64-android=fail
