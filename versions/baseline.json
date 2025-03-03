@@ -293,7 +293,7 @@
       "port-version": 0
     },
     "async-mqtt": {
-      "baseline": "10.0.0",
+      "baseline": "10.1.0",
       "port-version": 0
     },
     "async-simple": {
@@ -1913,7 +1913,7 @@
       "port-version": 0
     },
     "cpp-pinyin": {
-      "baseline": "1.0.0",
+      "baseline": "1.0.1",
       "port-version": 0
     },
     "cpp-redis": {
@@ -2609,7 +2609,7 @@
       "port-version": 3
     },
     "etl": {
-      "baseline": "20.39.4",
+      "baseline": "20.40.0",
       "port-version": 0
     },
     "eve": {
@@ -3150,7 +3150,7 @@
     },
     "glew": {
       "baseline": "2.2.0",
-      "port-version": 5
+      "port-version": 6
     },
     "glfw3": {
       "baseline": "3.4",
@@ -6181,7 +6181,7 @@
       "port-version": 2
     },
     "ms-gsl": {
-      "baseline": "4.1.0",
+      "baseline": "4.2.0",
       "port-version": 0
     },
     "ms-ifc-sdk": {
@@ -6233,7 +6233,7 @@
       "port-version": 0
     },
     "mujoco": {
-      "baseline": "3.2.7",
+      "baseline": "3.3.0",
       "port-version": 0
     },
     "mujs": {
@@ -6685,8 +6685,8 @@
       "port-version": 1
     },
     "opencascade": {
-      "baseline": "7.8.1",
-      "port-version": 1
+      "baseline": "7.9.0",
+      "port-version": 0
     },
     "opencc": {
       "baseline": "1.1.9",
@@ -6994,7 +6994,7 @@
     },
     "pcl": {
       "baseline": "1.15.0",
-      "port-version": 0
+      "port-version": 1
     },
     "pcre": {
       "baseline": "8.45",
@@ -7413,11 +7413,11 @@
       "port-version": 5
     },
     "qlementine": {
-      "baseline": "1.0.2",
+      "baseline": "1.1.2",
       "port-version": 0
     },
     "qlementine-icons": {
-      "baseline": "1.6.0",
+      "baseline": "1.7.0",
       "port-version": 0
     },
     "qmex": {
@@ -8033,7 +8033,7 @@
       "port-version": 0
     },
     "restinio": {
-      "baseline": "0.7.3",
+      "baseline": "0.7.4",
       "port-version": 0
     },
     "rexo": {
@@ -8309,7 +8309,7 @@
       "port-version": 6
     },
     "sdl2": {
-      "baseline": "2.32.0",
+      "baseline": "2.32.2",
       "port-version": 0
     },
     "sdl2-gfx": {
@@ -8341,7 +8341,7 @@
       "port-version": 11
     },
     "sdl3": {
-      "baseline": "3.2.4",
+      "baseline": "3.2.6",
       "port-version": 0
     },
     "sdl3-image": {
@@ -8377,7 +8377,7 @@
       "port-version": 1
     },
     "sentry-native": {
-      "baseline": "0.8.0",
+      "baseline": "0.8.1",
       "port-version": 0
     },
     "septag-dmon": {
@@ -8857,7 +8857,7 @@
       "port-version": 1
     },
     "stringzilla": {
-      "baseline": "3.11.3",
+      "baseline": "3.12.1",
       "port-version": 0
     },
     "strong-type": {
@@ -9029,7 +9029,7 @@
       "port-version": 0
     },
     "tdscpp": {
-      "baseline": "20240707",
+      "baseline": "20250301",
       "port-version": 0
     },
     "telnetpp": {
@@ -10197,7 +10197,7 @@
       "port-version": 4
     },
     "zpp-bits": {
-      "baseline": "4.4.17",
+      "baseline": "4.5",
       "port-version": 0
     },
     "zserge-webview": {
