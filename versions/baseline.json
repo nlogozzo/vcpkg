@@ -261,7 +261,7 @@
       "port-version": 0
     },
     "asio-grpc": {
-      "baseline": "3.4.1",
+      "baseline": "3.4.2",
       "port-version": 0
     },
     "asiochan": {
@@ -461,7 +461,7 @@
       "port-version": 1
     },
     "azure-core-cpp": {
-      "baseline": "1.14.1",
+      "baseline": "1.15.0",
       "port-version": 0
     },
     "azure-core-tracing-opentelemetry-cpp": {
@@ -1385,8 +1385,8 @@
       "port-version": 5
     },
     "breakpad": {
-      "baseline": "2023-06-01",
-      "port-version": 2
+      "baseline": "2024-02-16",
+      "port-version": 0
     },
     "brigand": {
       "baseline": "1.3.0",
@@ -1705,8 +1705,8 @@
       "port-version": 0
     },
     "cli11": {
-      "baseline": "2.4.2",
-      "port-version": 1
+      "baseline": "2.5.0",
+      "port-version": 0
     },
     "clickhouse-cpp": {
       "baseline": "2.5.1",
@@ -1753,7 +1753,7 @@
       "port-version": 3
     },
     "cnats": {
-      "baseline": "3.9.2",
+      "baseline": "3.10.0",
       "port-version": 0
     },
     "cnl": {
@@ -1765,8 +1765,8 @@
       "port-version": 1
     },
     "cocoyaxi": {
-      "baseline": "3.0.0",
-      "port-version": 1
+      "baseline": "2024-09-04",
+      "port-version": 0
     },
     "coin": {
       "baseline": "4.0.3",
@@ -2390,7 +2390,7 @@
     },
     "double-conversion": {
       "baseline": "3.3.0",
-      "port-version": 0
+      "port-version": 1
     },
     "dp-thread-pool": {
       "baseline": "0.7.0",
@@ -2757,8 +2757,8 @@
       "port-version": 0
     },
     "ffmpeg": {
-      "baseline": "7.1",
-      "port-version": 3
+      "baseline": "7.1.1",
+      "port-version": 0
     },
     "ffnvcodec": {
       "baseline": "12.2.72.0",
@@ -2913,8 +2913,8 @@
       "port-version": 4
     },
     "freeglut": {
-      "baseline": "3.4.0",
-      "port-version": 3
+      "baseline": "3.6.0",
+      "port-version": 0
     },
     "freeimage": {
       "baseline": "3.18.0",
@@ -3506,7 +3506,7 @@
     },
     "harfbuzz": {
       "baseline": "10.2.0",
-      "port-version": 2
+      "port-version": 3
     },
     "hash-library": {
       "baseline": "8",
@@ -3542,7 +3542,7 @@
     },
     "hello-imgui": {
       "baseline": "1.6.0",
-      "port-version": 0
+      "port-version": 1
     },
     "hexl": {
       "baseline": "1.2.5",
@@ -3565,7 +3565,7 @@
       "port-version": 0
     },
     "highs": {
-      "baseline": "1.7.2",
+      "baseline": "1.9.0",
       "port-version": 0
     },
     "highway": {
@@ -3706,7 +3706,7 @@
     },
     "imgui-sfml": {
       "baseline": "3.0",
-      "port-version": 0
+      "port-version": 1
     },
     "imguizmo": {
       "baseline": "2024-05-29",
@@ -5266,7 +5266,7 @@
     },
     "libtommath": {
       "baseline": "1.3.0",
-      "port-version": 1
+      "port-version": 2
     },
     "libtorch": {
       "baseline": "2.1.2",
@@ -5588,6 +5588,10 @@
       "baseline": "2.4.2",
       "port-version": 0
     },
+    "liquid-dsp": {
+      "baseline": "1.7.0",
+      "port-version": 0
+    },
     "litehtml": {
       "baseline": "0.9.0",
       "port-version": 0
@@ -5881,8 +5885,8 @@
       "port-version": 0
     },
     "matio": {
-      "baseline": "1.5.27",
-      "port-version": 1
+      "baseline": "1.5.28",
+      "port-version": 0
     },
     "matplotlib-cpp": {
       "baseline": "2020-08-27",
@@ -6274,7 +6278,7 @@
     },
     "mysql-connector-cpp": {
       "baseline": "9.1.0",
-      "port-version": 3
+      "port-version": 4
     },
     "nameof": {
       "baseline": "0.10.4",
@@ -6685,8 +6689,8 @@
       "port-version": 0
     },
     "openblas": {
-      "baseline": "0.3.28",
-      "port-version": 1
+      "baseline": "0.3.29",
+      "port-version": 0
     },
     "opencascade": {
       "baseline": "7.9.0",
@@ -6905,7 +6909,7 @@
       "port-version": 0
     },
     "otl": {
-      "baseline": "4.0.480",
+      "baseline": "4.0.481",
       "port-version": 0
     },
     "outcome": {
@@ -6950,7 +6954,7 @@
     },
     "pangomm": {
       "baseline": "2.56.1",
-      "port-version": 0
+      "port-version": 1
     },
     "parallel-hashmap": {
       "baseline": "2.0.0",
@@ -6962,7 +6966,7 @@
     },
     "paraview": {
       "baseline": "5.12.1",
-      "port-version": 3
+      "port-version": 4
     },
     "parmetis": {
       "baseline": "2022-07-27",
@@ -7161,7 +7165,7 @@
       "port-version": 0
     },
     "plutovg": {
-      "baseline": "0.0.12",
+      "baseline": "0.0.13",
       "port-version": 0
     },
     "pmdk": {
@@ -7905,8 +7909,8 @@
       "port-version": 0
     },
     "rapidjson": {
-      "baseline": "2023-07-17",
-      "port-version": 2
+      "baseline": "2025-02-26",
+      "port-version": 0
     },
     "rapidxml": {
       "baseline": "1.13",
@@ -8212,6 +8216,10 @@
       "baseline": "3.0.28",
       "port-version": 0
     },
+    "safetyhook": {
+      "baseline": "0.6.5",
+      "port-version": 0
+    },
     "sail": {
       "baseline": "0.9.8",
       "port-version": 0
@@ -8349,7 +8357,7 @@
       "port-version": 0
     },
     "sdl3-image": {
-      "baseline": "3.2.0",
+      "baseline": "3.2.4",
       "port-version": 0
     },
     "sdl3-ttf": {
@@ -8530,7 +8538,7 @@
     },
     "skia": {
       "baseline": "134",
-      "port-version": 0
+      "port-version": 1
     },
     "skyr-url": {
       "baseline": "1.13.0",
@@ -8557,7 +8565,7 @@
       "port-version": 0
     },
     "smf": {
-      "baseline": "0.1.1",
+      "baseline": "0.2.0",
       "port-version": 0
     },
     "smpeg2": {
@@ -9674,7 +9682,7 @@
     },
     "vowpal-wabbit": {
       "baseline": "9.10.0",
-      "port-version": 1
+      "port-version": 2
     },
     "vs-yasm": {
       "baseline": "0.5.0",
