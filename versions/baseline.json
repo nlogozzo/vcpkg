@@ -192,6 +192,10 @@
       "baseline": "2.21.1",
       "port-version": 2
     },
+    "arcticdb-sparrow": {
+      "baseline": "0.5.0",
+      "port-version": 0
+    },
     "arcus": {
       "baseline": "4.10.0",
       "port-version": 4
@@ -1906,7 +1910,7 @@
     },
     "cpp-httplib": {
       "baseline": "0.20.0",
-      "port-version": 0
+      "port-version": 1
     },
     "cpp-ipc": {
       "baseline": "1.3.0",
@@ -2467,6 +2471,10 @@
     "dx": {
       "baseline": "1.0.1",
       "port-version": 3
+    },
+    "dxcam-cpp": {
+      "baseline": "0.2.1",
+      "port-version": 0
     },
     "dxsdk-d3dx": {
       "baseline": "9.29.952.8",
@@ -3398,7 +3406,7 @@
     },
     "gz-cmake": {
       "baseline": "4.1.1",
-      "port-version": 0
+      "port-version": 1
     },
     "gz-cmake3": {
       "baseline": "3.4.1",
@@ -3406,7 +3414,7 @@
     },
     "gz-common": {
       "baseline": "6.0.2",
-      "port-version": 0
+      "port-version": 1
     },
     "gz-common5": {
       "baseline": "5.4.1",
@@ -3446,7 +3454,7 @@
     },
     "gz-physics": {
       "baseline": "8.0.0",
-      "port-version": 0
+      "port-version": 1
     },
     "gz-physics6": {
       "baseline": "6.5.1",
@@ -4845,7 +4853,7 @@
       "port-version": 0
     },
     "libmediainfo": {
-      "baseline": "24.12",
+      "baseline": "25.3",
       "port-version": 0
     },
     "libmem": {
@@ -5101,7 +5109,7 @@
       "port-version": 0
     },
     "librdkafka": {
-      "baseline": "2.6.0",
+      "baseline": "2.8.0",
       "port-version": 0
     },
     "libredwg": {
@@ -6046,7 +6054,7 @@
     },
     "minhook": {
       "baseline": "1.3.3",
-      "port-version": 4
+      "port-version": 5
     },
     "miniaudio": {
       "baseline": "0.11.22",
@@ -6806,7 +6814,7 @@
     },
     "openh264": {
       "baseline": "2.6.0",
-      "port-version": 0
+      "port-version": 1
     },
     "openigtlink": {
       "baseline": "3.0",
@@ -8553,7 +8561,7 @@
       "port-version": 0
     },
     "simdutf": {
-      "baseline": "6.3.1",
+      "baseline": "6.4.0",
       "port-version": 0
     },
     "simonbrunel-qtpromise": {
@@ -8746,7 +8754,7 @@
     },
     "spdlog": {
       "baseline": "1.15.1",
-      "port-version": 0
+      "port-version": 1
     },
     "spectra": {
       "baseline": "1.0.1",
